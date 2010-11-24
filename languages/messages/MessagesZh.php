@@ -13,7 +13,8 @@
 
 # Stub message file for converter code "zh"
 
-$fallback = 'zh-hans';
+//$fallback = 'zh-hans';
+$fallback = 'zh-hant';
 
 $namespaceNames = array(
 	NS_MEDIA            => 'Media',
